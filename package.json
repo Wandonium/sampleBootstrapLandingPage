@@ -1,0 +1,19 @@
+{
+  "name": "samplebootstraplandingpage",
+  "version": "1.0.0",
+  "description": "This is a simple Bootstrap Landing page done for practice using a tutorial. Check it out [here](https://wandonium.github.io/sampleBootstrapLandingPage/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wandonium/sampleBootstrapLandingPage.git"
+  },
+  "author": "Wando",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wandonium/sampleBootstrapLandingPage/issues"
+  },
+  "homepage": "https://github.com/Wandonium/sampleBootstrapLandingPage#readme"
+}
